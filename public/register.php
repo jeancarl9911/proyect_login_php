@@ -1,0 +1,1 @@
+<?php echo 'Registro funcional (contenido detallado en canvas)'; ?>

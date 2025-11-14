@@ -1,0 +1,1 @@
+<?php echo 'Login funcional (contenido detallado en canvas)'; ?>
