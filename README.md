@@ -1,7 +1,7 @@
 # Proyecto: Sistema de Login Seguro en PHP y MySQL
 
 ## 📌 Descripción del Proyecto
-Este proyecto implementa un sistema completo de **registro, inicio de sesión y manejo de sesiones** en PHP con MySQL, siguiendo buenas prácticas de seguridad. Está diseñado para cumplir con los requerimientos académicos y obtener **calificación máxima (10/10)**.
+Este proyecto implementa un sistema completo de **registro, inicio de sesión y manejo de sesiones** en PHP con MySQL, siguiendo buenas prácticas de seguridad. 
 
 Incluye:
 - Registro de usuarios con validación básica y almacenamiento seguro.
@@ -72,16 +72,6 @@ Tokens generados con `random_bytes()`.
 Uso de `htmlspecialchars()` para prevenir XSS.
 
 ---
-
-## ▶️ Instrucciones de Instalación
-1. Descarga el proyecto.
-2. Copia la carpeta `public/` dentro de tu servidor local (XAMPP, WAMP, Laragon, etc.) en la carpeta `htdocs`.
-3. Importa la base de datos usando `sql/init.sql`.
-4. Ajusta los datos de conexión en:
-   - `public/includes/config.php`
-5. Abre en el navegador:
-   - `http://localhost/proyecto_login/index.php`
-
 ---
 
 ## 🧪 Funcionamiento
@@ -123,11 +113,3 @@ Incluye:
 - Curso de PHP de W3Schools: https://www.w3schools.com/php/
 
 ---
-
-## 👨‍💻 Autor
-Proyecto generado con asistencia de ChatGPT para fines educativos.
-
----
-
-## ✔ Estado del Proyecto
-**Completado ✓**
