@@ -90,16 +90,6 @@ Uso de `htmlspecialchars()` para prevenir XSS.
 `logout.php` destruye la sesión y redirige al inicio.
 
 ---
-
-## 🎥 Recomendaciones para el Video de Presentación
-Duración mínima: **3 minutos**.
-
-Incluye:
-1. Cómo funciona el registro.
-2. Cómo se maneja la sesión en PHP.
-3. Medidas de seguridad aplicadas.
-4. Demostración del login y cierre de sesión.
-
 ---
 
 ## 📚 Bibliografía y Recursos
